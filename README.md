@@ -14,6 +14,6 @@
 
 # Videojuegos
 
-![dasb](https://github.com/NikiDevelop/Dasboards/assets/105102619/4e556094-417c-452a-94f0-238dfe4be510)
+![da](https://github.com/NikiDevelop/Dasboards/assets/105102619/eb8f0d15-2294-4abc-8844-0ea3773f7074)
 
 ["Ver Proyecto"](https://www.novypro.com/project/ventas-de-videojuegos-1)
