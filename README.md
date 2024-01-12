@@ -19,6 +19,12 @@ La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza p
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br> <br> 
+ # Netflix
+
+ ![153shots_so](https://github.com/NikiDevelop/Dasboards/assets/105102619/02d6ab35-55cf-486f-be73-403528fe2abc)
+
+ [Ver Dashboard](https://www.novypro.com/project/netflix-20) 
+ 
 
 # Ventas Financieras por Ciudades
 
