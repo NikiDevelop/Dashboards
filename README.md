@@ -2,18 +2,18 @@
 
 # Amazon Prime Video
 
-![amazon primevideo](https://github.com/NikiDevelop/Dasboards/assets/105102619/a9492a7f-1328-4a08-aa59-029fa0f233f4)
+![g1 1](https://github.com/NikiDevelop/Dasboards/assets/105102619/0dfad02a-7cc1-4044-978d-2926238781a2)
 
 ["Ver Proyecto"](https://www.novypro.com/project/amazon-prime-video--1)
 
 # Ventas Financieras por Ciudades
 
-![re](https://github.com/NikiDevelop/Dasboards/assets/105102619/df021802-0970-42d2-854f-cad14da3f0c4)
+![f 1](https://github.com/NikiDevelop/Dasboards/assets/105102619/83a44b95-9462-497e-b358-9f9bad5af76d)
 
 ["Ver Proyecto"](https://www.novypro.com/project/ventas-por-categor%C3%ADa-por-ciudades)
 
 # Videojuegos
 
-![daaaaaaaaas](https://github.com/NikiDevelop/Dasboards/assets/105102619/9177af34-3bc1-4e26-a46e-87ddd3afb82d)
+![v1 1](https://github.com/NikiDevelop/Dasboards/assets/105102619/80fc8ad2-f3a9-4d70-bd45-8ec170460971)
 
 ["Ver Proyecto"](https://www.novypro.com/project/ventas-de-videojuegos-1)
