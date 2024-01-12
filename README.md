@@ -12,7 +12,7 @@ Pero podemos ver una gran tendencia al alza de las series a lo largo de los año
 • Los géneros son liderados por `Drama` y seguido por `Comedia`. <br>
 • Podemos ver la clasificación por edades que la primera es `+13`, seguido por `+16` y `para todo público`. <br>
 ## Conclusiones
-La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza por ir lanzando más series, hasta casi a la par de las películas, y sabemos que géneros son los que más se crea y en que rango de edades.
+La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza por ir lanzando más series, hasta casi a la par de las películas, y sabemos que géneros son los que más se están creando y en que rango de edades.
 
 
 [Ver Dashboard](https://www.novypro.com/project/amazon-prime-video--1) 
