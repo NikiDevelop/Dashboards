@@ -16,6 +16,8 @@ La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza p
 
 
 [Ver Dashboard](https://www.novypro.com/project/amazon-prime-video--1) 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br> <br> 
 
 # Ventas Financieras por Ciudades
