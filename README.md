@@ -1,4 +1,4 @@
-# Dasboards
+# Dashboards
 Este es un repositorio donde subiré mis `Dashboards` con una `Storytelling` y su respectivo Link a [Novypro.com](https://www.novypro.com/profile_projects/nikidevelop) en donde podrás interactuar con ellos.
 
 # Amazon Prime Video
