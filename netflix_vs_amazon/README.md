@@ -34,7 +34,7 @@ La plataforma de streaming de `Netflix` no tiene definido un tipo de modelo para
  [Ver Dashboard](https://www.novypro.com/project/netflix-20) 
 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- # Netflix vs Amazon Prime Video
+
  ## Consluión Final
 Analizando las dos plataformas de straming `Netflix` y `Amazon Prime Video` podemos sacar unas conclusiones: <br>
 Podemos observar que `Amazon Prime Video` apuesta más por un modelo más de calidad y con un público definido, en donde las series están al alza y las películas también. Apuestan por géneros más de drama y comedia, mientras que `Netflix` no tiene un modelo definido. Netflix apuesta más por la cantidad que por la calidad, mientras que `Amazon Prime Video` es todo lo contrario. Con el paso de los años podemos ver que `Netflix` ha disminuido las películas con una gran bajada, esto podría deberse al Covid-19, pero en `Amazon Prime Video` ha ido al alza tanto las películas como las series, y sigue creciendo. <br>
