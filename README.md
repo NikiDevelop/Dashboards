@@ -23,8 +23,26 @@ La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza p
 
  ![153shots_so](https://github.com/NikiDevelop/Dasboards/assets/105102619/02d6ab35-55cf-486f-be73-403528fe2abc)
 
- [Ver Dashboard](https://www.novypro.com/project/netflix-20) 
+ En este dataset de `Netflix` podemos sacar algunas conclusiones de la plataforma de streaming al hacer un análisis con los datos que tenemos, luego podremos comparar las dos plataformas de streaming para hacer nos una idea que estrategia están usando tanto Netflix como Amazon Prime Video. <br> <br>
+ ## Analizamos el Dashboard
+• Podemos observar que hay un `70% de películas` frente a un `30% de series`. El total de películas que ha lanzado Netflix hasta la fecha de 2021 fueron un total de `6129` frente a las `2675` series hasta la fecha de 2021. <br>
+Podemos ver que en los últimos años el número de series ha ido aumentando y las películas ha ido desminuyendo. <br>
+• No hay un gran ganador en los géneros, están todos muy cerca. <br> 
+• En la clasificación por edades hay un claro ganador y es `mayores de edad`, seguido de `+14`. <br>
+## Conclusiones
+La plataforma de streaming de `Netflix` no tiene definido un tipo de modelo para cierto público, sino apuesta más por un público general, por la cantidad y no la calidad
  
+
+ [Ver Dashboard](https://www.novypro.com/project/netflix-20) 
+
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Netflix vs Amazon Prime Video
+ ## Consluión Final
+Analizando las dos plataformas de straming `Netflix` y `Amazon Prime Video` podemos sacar unas conclusiones: <br>
+Podemos observar que `Amazon Prime Video` apuesta más por un modelo más de calidad y con un público definido, en donde las series están al alza y las películas también. Apuestan por géneros más de drama y comedia, mientras que `Netflix` no tiene un modelo definido. Netflix apuesta más por la cantidad que por la calidad, mientras que `Amazon Prime Video` es todo lo contrario. Con el paso de los años podemos ver que `Netflix` ha disminuido las películas con una gran bajada, esto podría deberse al Covid-19, pero en `Amazon Prime Video` ha ido al alza tanto las películas como las series, y sigue creciendo. <br>
+El que fue el rey del streaming ya no está solo, ahora tiene grandes competidores y esto se está notando en sus números. Veremos como evoluciona todo esto.
+  
+ <br> <br>
 
 # Ventas Financieras por Ciudades
 
