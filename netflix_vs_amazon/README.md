@@ -14,7 +14,7 @@ La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza p
 
 
 [Ver Dashboard](https://www.novypro.com/project/amazon-prime-video--1) <br>
-[Exploratory Data Visualization](https://www.kaggle.com/code/shivamb/amazon-prime-videos-exploratory-analysis) 
+[Exploratory Data Visualization](https://www.kaggle.com/code/nikidevelop/amazon-prime-videos-exploratory-analysis) 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
