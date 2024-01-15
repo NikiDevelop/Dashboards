@@ -34,7 +34,7 @@ La plataforma de streaming de `Netflix` no tiene definido un tipo de modelo para
  
 
  [Ver Dashboard](https://www.novypro.com/project/netflix-20)  <br> 
- [Exploratory Data Visualization](https://www.kaggle.com/code/joshuaswords/netflix-data-visualization) 
+ [Exploratory Data Visualization](https://www.kaggle.com/code/nikidevelop/netflix-data-visualization) 
 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
