@@ -13,7 +13,9 @@ Pero podemos ver una gran tendencia al alza de las series a lo largo de los año
 La plataforma de streaming de `Amazon Prime Video` tiene una tendencia al alza por ir lanzando más series, hasta casi a la par de las películas, y sabemos que géneros son los que más se están creando y en que rango de edades.
 
 
-[Ver Dashboard](https://www.novypro.com/project/amazon-prime-video--1) 
+[Ver Dashboard](https://www.novypro.com/project/amazon-prime-video--1) <br>
+[Exploratory Data Visualization](https://www.kaggle.com/code/shivamb/amazon-prime-videos-exploratory-analysis) 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br> <br> 
@@ -31,7 +33,8 @@ Podemos ver que en los últimos años el número de series ha ido aumentando y l
 La plataforma de streaming de `Netflix` no tiene definido un tipo de modelo para cierto público, sino apuesta más por un público general, por la cantidad y no la calidad
  
 
- [Ver Dashboard](https://www.novypro.com/project/netflix-20) 
+ [Ver Dashboard](https://www.novypro.com/project/netflix-20)  <br> 
+ [Exploratory Data Visualization](https://www.kaggle.com/code/joshuaswords/netflix-data-visualization) 
 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
